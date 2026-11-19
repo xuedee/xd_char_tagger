@@ -3,6 +3,8 @@
 [中文说明](#中文说明) | [English Documentation](#english-documentation)
 
 ---
+![Preview](xd_char_tagger_preview.png)
+
 
 ## 中文说明
 
